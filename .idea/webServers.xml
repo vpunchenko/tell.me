@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bef045a8-a8ee-41b9-ad43-fdc0399fb33a" name="Marketplace" url="http://sre.ftp.ukraine.com.ua">
+        <fileTransfer host="sre.ftp.ukraine.com.ua" port="21" rootFolder="/devenv.pro/marketplace">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
